@@ -1,0 +1,62 @@
+.item1 {
+width: 65%;
+height: 50px;
+background-color: red;
+}
+.item2 {
+    width: 25%;
+    height: 50px;
+    background-color: black;
+}
+.flex-container {
+    display:flex;
+    justify-content: space-between;
+}
+.i1 {
+    width: 50%;
+    height: 50px;
+    background-color: chocolate;
+}
+.i21 {
+    width: 100%;
+    height: 25px;
+    background-color: cyan;
+}
+.i22 {
+    width: 100%;
+    height: 25px;
+    background-color: darkred;
+}
+.i1, .i2 {
+    width: 50%;
+}
+.flex-hhh {
+    display: flex;
+    gap: 10%;
+}
+.i2 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.flex-ooo {
+    display: flex;
+    gap: 20%;
+}
+.r1 {
+    width: 40%;
+    height: 55px;
+    background-color: darkorange;
+}
+.r2 {
+    width: 40%;
+    height: 55px;
+    background-color: yellow;
+}
+.r3 {
+    width: 40%;
+    height: 55px;
+    background-color: royalblue;
+    
+}
+
